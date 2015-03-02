@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CAXperts.Core.ParseUtil
+namespace Numbers.Core.ParseUtil
 {
     public interface IParseUtil
     {

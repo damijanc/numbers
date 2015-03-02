@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.IO;
 
-namespace CAXperts.Core.FileUtil
+namespace Numbers.Core.FileUtil
 {
     public class FileUtil : IFileUtil
     {

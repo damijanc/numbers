@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace CAXperts.Core.ParseUtil
+namespace Numbers.Core.ParseUtil
 {
     public class ParseUtil : IParseUtil
     {
