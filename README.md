@@ -2,6 +2,7 @@ This is a simple solution to the problem of detecting numbers written with -_/\
 
 Here is an example:
 
+```
 ---   ---    |  |   |   -----
  /     _|    |  |___|   |___
  \    |      |      |       |
@@ -10,7 +11,7 @@ Here is an example:
 |  |___|   |___
 |      |       |
 |      |   ____|
-
+```
 
 Usage:
 
